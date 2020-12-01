@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GuruGrace"
+    }
+  },
+  "defaultProject": "GuruGrace",
+  "cli": {
+    "analytics": "016c04c5-2f42-4056-bbea-c826b7f5f9f4"
+  }
 }

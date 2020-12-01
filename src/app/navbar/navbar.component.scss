@@ -1,0 +1,56 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    // background-color: #e9d7da;
+    top: 0;
+    left: 0;
+    padding: 0.4%;
+    margin-top: -0.6%;
+    margin-left: -0.2%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.brand{
+    margin-left: 30px;
+    font-family: 'Ramabhadra', sans-serif;
+}
+
+.Home{
+    margin-left: 45%;
+    margin-top: 27px;
+    cursor: pointer;
+}
+
+.Daily,.Ben{
+    margin-left: 5%;
+    margin-top: 27px;
+    cursor: pointer;
+}
+
+
+.About{
+    margin-left: 5%;
+    margin-top: 27px;
+    cursor: pointer;
+}
+
+.Home:hover{
+    margin-left: 45%;
+    margin-top: 27px;
+    text-decoration: underline black;
+    cursor: pointer;
+}
+
+.Daily:hover,.Ben:hover{
+    margin-left: 5%;
+    margin-top: 27px;
+    text-decoration: underline black;
+    cursor: pointer;
+}
+
+.About:hover{
+    margin-left: 5%;
+    margin-top: 27px;
+    text-decoration: underline black;
+    cursor: pointer;
+}
